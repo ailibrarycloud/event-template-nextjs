@@ -1,3 +1,7 @@
+"use client"
+
+import AIChatbot from "@/components/ai-library-chatbot";
+import { useState } from "react";
 import Markdown from "react-markdown";
 import rehypeRaw from "rehype-raw";
 import remarkGfm from "remark-gfm";
@@ -92,8 +96,10 @@ const people = [
 ];
 
 export default function Home() {
+  const [boxOpen, setBoxOpen] = useState(false);
   return (
     <>
+      <AIChatbot boxOpen={boxOpen} setBoxOpen={setBoxOpen} />
       <div className="bg-white">
         <div className="mx-auto max-w-7xl px-10 py-4 lg:px-8 flex justify-between items-center">
           <div className="flex items-center space-x-4">
@@ -122,7 +128,9 @@ export default function Home() {
             <p className="text-lg">{meta.location}</p>
           </div>
           <div className="mt-10">
-            <div className="p-4 bg-amber-600 w-32 rounded text-white font-semibold inline-block text-center hover:bg-amber-700 cursor-pointer transition duration-200">
+            <div 
+            onClick={() => setBoxOpen(true)}
+            className="p-4 bg-amber-600 w-32 rounded text-white font-semibold inline-block text-center hover:bg-amber-700 cursor-pointer transition duration-200">
               RSVP
             </div>
           </div>

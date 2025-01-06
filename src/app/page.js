@@ -19,7 +19,7 @@ const meta = {
   objectives:
     "This roundtable aims to bring together leaders and experts to explore AI-driven solutions for the public good. Focused on healthcare, education, agriculture, and governance, its further objective is to craft a collaborative roadmap for impactful, scalable initiatives.",
   location:
-    "21 Jan 2025 | 12:45 – 13:30 Hrs | Andhra Pradesh Lounge at Atlantis (Ground Floor), Grandhotel Belvedere, 89 Promenade",
+    "Tue, 21 Jan 2025 | 12:45 – 13:30 Hrs | Andhra Pradesh Lounge at Atlantis (Ground Floor), Grandhotel Belvedere, 89 Promenade",
   description:
     "Andhra Pradesh is leveraging AI to address its growing needs and drive sectoral transformation: \n 1. Partnering with Google, the state aims to harness AI to boost economic prosperity, creating market-ready solutions and new revenue streams. \n  With a 67% literacy rate, AI can enhance learning outcomes, improving youth employability and skill development. \n - AI-driven diagnostics and solutions can improve maternal and child nutrition, risk assessments, and affordable healthcare delivery, particularly in rural areas. \n - AI can optimize crop yield predictions, enhance food security, and strengthen market linkages for the state’s farmers, contributing over 29% to GSDP. \n - Data-driven AI can improve public services, decision-making, and transparency, positioning Andhra Pradesh as a leader in AI innovation. \n - It will be key to explore how AI can transform key sectors in Andhra Pradesh, by highlighting specific uses cases such as urban mobility, precision agriculture, predictive healthcare, and renewable energy management.",
 };

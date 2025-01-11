@@ -1,0 +1,77 @@
+{
+    "title": "Round Table: AI for Good – Shaping a Smarter, Sustainable Tomorrow",
+    "image": "shutterstock_2370039435.jpg",
+    "date": "Tue, 21 Jan 2025",
+    "time": "12:45 – 13:30 Hrs",
+    "namespace": "ai-for-good-roundtable-20250106093418",
+    "location": "Andhra Pradesh Lounge at Atlantis (Ground Floor), Grandhotel Belvedere, 89 Promenade",
+    "primary_logo": {
+      "href": "/AP-logo.png"
+    },
+    "secondary_logo": {
+      "href": "/google.png",
+      "title": "Supported by"
+    },
+    "sections": [
+      {
+        "body": "This roundtable aims to convene leaders and experts to discuss AI-driven solutions for the public good. With a focus on healthcare, education, agriculture, and governance, the session seeks to develop a collaborative roadmap for impactful and scalable initiatives that can benefit society."
+      },
+      {
+        "title": "Objectives",
+        "body": "Andhra Pradesh is harnessing the transformative potential of AI to address its developmental challenges and drive sectoral progress. Key focus areas include:\n* <strong>Economic Growth through AI Partnerships:</strong> Partnering with Google and other industry leaders, the state is leveraging AI to foster economic prosperity by creating market-ready solutions, driving innovation, and unlocking new revenue streams.\n* <strong>Enhancing Education and Skill Development:</strong> With a 67% literacy rate, AI has the potential to revolutionize learning outcomes by personalizing education, improving youth employability, and advancing skill development initiatives.\n* <strong>Transforming Healthcare Access and Outcomes:</strong> AI-driven diagnostics and predictive tools can improve maternal and child nutrition, facilitate early risk assessments, and ensure affordable healthcare delivery, particularly in underserved rural areas.\n* <strong>Boosting Agricultural Productivity and Food Security:</strong> AI applications in precision agriculture can optimize crop yield predictions, enhance food security, and strengthen market linkages for farmers. This is critical, as agriculture contributes over 29% to the state's Gross State Domestic Product (GSDP).\n* <strong>Advancing Governance through Data-Driven Insights:</strong> By integrating AI into public administration, the state can enhance decision-making, improve service delivery, and promote transparency, establishing Andhra Pradesh as a leader in AI innovation."
+      },
+      {
+        "title": "Exploration Areas",
+        "body": "The roundtable will highlight actionable AI use cases to drive transformative impact across key sectors, including:\n\n- Urban mobility optimization.\n- Precision agriculture for sustainable farming.\n- Predictive healthcare solutions for preventive care.\n- Renewable energy management to support sustainability goals.\n\nThis session will provide a platform to share insights, discuss challenges, and shape a shared vision for harnessing AI to create a smarter, more sustainable future for Andhra Pradesh."
+      }
+    ],
+    "speaker_section_title": "Speakers @ Davos 2019",
+    "people": [
+      {
+        "name": "Nara Lokesh",
+        "role": "Hon’ble Minister for Human Resource Development, IT, Electronics & Communications, and Real Time Governance",
+        "organisation": "Government of Andhra Pradesh",
+        "imageUrl": "https://theleaderspage.com/wp-content/uploads/2020/07/nara-lokesh.jpg",
+        "twitter": "",
+        "linkedin": "",
+        "description": "",
+        "extra_info": "Led by"
+      },
+      {
+        "name": "Vishnu Som",
+        "role": "Group Executive Editor and Senior Anchor",
+        "organisation": "NDTV",
+        "description": "",
+        "href": "#",
+        "imageUrl": "https://pbs.twimg.com/profile_images/1787471109174231040/WzkFl-vb_400x400.jpg",
+        "extra_info": "Moderator"
+      },
+      {
+        "name": "Matt Renner",
+        "role": "President - Global Revenue",
+        "organisation": "Google Cloud",
+        "description": "",
+        "href": "#",
+        "imageUrl": "https://media.licdn.com/dms/image/v2/D4E03AQHAWreVAWcw3A/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1712639109721?e=2147483647&v=beta&t=11q5x8j9O5XztHQ0EjmNzf_1k3auczRmxRBZ1t0dNlk"
+      },
+      {
+        "name": "Rodger Voorhies",
+        "role": "President, Global Growth & Opportunity",
+        "organisation": "Bill & Melinda Gates Foundation",
+        "imageUrl": "https://www.gatesfoundation.org/-/media/gfo/3about/3people/ga11257112_rodger_voorhies_20181115_0002_3000x2400.jpg?rev=2e6d20946dd546858b41896c2231dd78"
+      },
+      {
+        "name": "Doreen Bogdan-Martin",
+        "role": "Secretary-General",
+        "organisation": "International Telecommunication Union (ITU)",
+        "imageUrl": "https://www.state.gov/wp-content/uploads/2021/08/Doreen-Bogdan-Martin-Campaign-Photo-scaled.jpg"
+      },
+      {
+        "name": "Daniel Susskind",
+        "role": "Associate Member of the Economics Department",
+        "organisation": "University of Oxford, United Kingdom",
+        "imageUrl": "https://georginacapel.com/volumes/authors/_1200x675_crop_center-center_none/15733/Daniel-Susskind-2017.jpg"
+      }
+    ]
+  }
+  

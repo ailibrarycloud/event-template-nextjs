@@ -19,8 +19,8 @@ export const formatMarkdown = (markdown) => {
 
 export default function Home() {
   const [boxOpen, setBoxOpen] = useState(false);
-  // const fileName = process.env["NEXT_PUBLIC_DATAFILE_URL"];
-  const fileName = "data.json";
+  const fileName = process.env["NEXT_PUBLIC_DATAFILE_URL"];
+  // const fileName = "data.json";
   const [meta, setMeta] = useState({});
   const [loader, setLoader] = useState(true);
   useEffect(() => {

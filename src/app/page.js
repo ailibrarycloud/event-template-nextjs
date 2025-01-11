@@ -19,8 +19,8 @@ export const formatMarkdown = (markdown) => {
 
 export default function Home() {
   const [boxOpen, setBoxOpen] = useState(false);
-  const fileName = process.env["NEXT_PUBLIC_DATAFILE_URL"];
-  // const fileName = "data.json";
+  // const fileName = process.env["NEXT_PUBLIC_DATAFILE_URL"];
+  const fileName = "data.json";
   const [meta, setMeta] = useState({});
   const [loader, setLoader] = useState(true);
   useEffect(() => {
@@ -89,8 +89,8 @@ export default function Home() {
           <div className="bg-white">
             <div className="px-6 py-24 sm:px-6 sm:py-32 lg:px-8">
               <div className="mx-auto max-w-2xl text-gray-900">
-                {meta.sections.map((section) => (
-                  <>
+                {meta.sections.map((section, idx) => (
+                  <div key={idx}>
                     <h2 className="text-3xl  tracking-tight sm:text-3xl mb-6">
                       {section.title}
                     </h2>
@@ -101,7 +101,7 @@ export default function Home() {
                     >
                       {section.body}
                     </Markdown>
-                  </>
+                  </div>
                 ))}
               </div>
             </div>

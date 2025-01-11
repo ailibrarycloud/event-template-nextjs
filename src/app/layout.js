@@ -3,10 +3,21 @@ import "./globals.css";
 
 const inter = Inter({ subsets: ["latin"] });
 
-export const metadata = {
-  title: "Round Table: AI for Good – Shaping a Smarter, Sustainable Tomorrow",
-  description: "21 Jan 2025 | 12:45 – 13:30 Hrs | Andhra Pradesh Lounge at Atlantis (Ground Floor), Grandhotel Belvedere, 89 Promenade",
-};
+export async function generateMetadata({ params, searchParams }, parent) {
+  const fileName = process.env["NEXT_PUBLIC_DATAFILE_URL"];
+  const res = await fetch(fileName);
+  const meta = await res.json();
+  return {
+    title: meta.title,
+    images: [meta.image],
+    description: meta.description,
+    openGraph: {
+      title: meta.title,
+      description: meta.description,
+      images: [meta.image],
+    },
+  };
+}
 
 export default function RootLayout({ children }) {
   return (

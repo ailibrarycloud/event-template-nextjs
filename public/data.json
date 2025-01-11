@@ -1,7 +1,7 @@
 {
-  "title": "Round Table: AI for Good – Shaping a Smarter, Sustainable Tomorrow",
-  "image": "shutterstock_2370039435.jpg",
-  "date": "Tue, 21 Jan 2025",
+  "title": "Shaping the Future for Next-Gen AI: Innovation Hub, Data Factory, and AI University",
+  "image": "https://ailib-public.s3-us-west-2.amazonaws.com/corbett/arani@ailibrary.ai/shutterstock_2018729366.jpg",
+  "date": "Wed, 22 Jan 2025",
   "time": "12:45 – 13:30 Hrs",
   "namespace": "ai-for-good-roundtable-20250106093418",
   "location": "Andhra Pradesh Lounge at Atlantis (Ground Floor), Grandhotel Belvedere, 89 Promenade",
@@ -9,20 +9,20 @@
     "href": "/AP-logo.png"
   },
   "secondary_logo": {
-    "href": "/google.png",
-    "title": "Supported by"
+    "href": "/NVIDIA.svg",
+    "title": "In association with"
   },
   "sections": [
     {
-      "body": "This roundtable aims to convene leaders and experts to discuss AI-driven solutions for the public good. With a focus on healthcare, education, agriculture, and governance, the session seeks to develop a collaborative roadmap for impactful and scalable initiatives that can benefit society."
+      "body": "This roundtable will explore how Andhra Pradesh can establish itself as a global hub for next-generation AI by fostering innovation, implementing cutting-edge solutions, and strengthening its integration into the global technology ecosystem."
     },
     {
       "title": "Objectives",
-      "body": "Andhra Pradesh is harnessing the transformative potential of AI to address its developmental challenges and drive sectoral progress. Key focus areas include:\n* <strong>Economic Growth through AI Partnerships:</strong> Partnering with Google and other industry leaders, the state is leveraging AI to foster economic prosperity by creating market-ready solutions, driving innovation, and unlocking new revenue streams.\n* <strong>Enhancing Education and Skill Development:</strong> With a 67% literacy rate, AI has the potential to revolutionize learning outcomes by personalizing education, improving youth employability, and advancing skill development initiatives.\n* <strong>Transforming Healthcare Access and Outcomes:</strong> AI-driven diagnostics and predictive tools can improve maternal and child nutrition, facilitate early risk assessments, and ensure affordable healthcare delivery, particularly in underserved rural areas.\n* <strong>Boosting Agricultural Productivity and Food Security:</strong> AI applications in precision agriculture can optimize crop yield predictions, enhance food security, and strengthen market linkages for farmers. This is critical, as agriculture contributes over 29% to the state's Gross State Domestic Product (GSDP).\n* <strong>Advancing Governance through Data-Driven Insights:</strong> By integrating AI into public administration, the state can enhance decision-making, improve service delivery, and promote transparency, establishing Andhra Pradesh as a leader in AI innovation."
+      "body": "Andhra Pradesh recognizes the transformative potential of AI in revolutionizing industries, enhancing public services, and driving sustained economic growth. By collaborating with NVIDIA and other global leaders, the state aims to realize this vision across key focus areas:\n- **Positioning as a Global AI Hub:** With the global AI market expected to reach $826 billion by 2030, Andhra Pradesh is strategically aiming to attract investments, foster job creation, and accelerate economic development by becoming a next-generation AI innovation hub.\n- **Workforce Development for an AI-Driven Future:** Partnerships with leading organizations can enable the development of specialized training programs, equipping the state's youth with essential AI and industry-relevant skills to prepare for future opportunities.\n- **Establishing a Transformative AI University:** The proposed AI university in Andhra Pradesh is poised to be a game-changer. It will require the creation of a conducive AI ecosystem, including advanced resources, skill development initiatives, and robust collaborations with academia, civil societies, private institutions, and global industry leaders.\n- **AI Applications Across Key Sectors:** Andhra Pradesh aims to leverage global expertise to implement AI-driven solutions in agriculture, healthcare, education, and governance, boosting productivity and addressing critical citizen needs.\n* **Building Robust Infrastructure for Innovation:**\nBy creating an AI hub with state-of-the-art infrastructure, Andhra Pradesh can foster sustained innovation and position itself as a global leader in AI technology."
     },
     {
-      "title": "Exploration Areas",
-      "body": "The roundtable will highlight actionable AI use cases to drive transformative impact across key sectors, including:\n\n- Urban mobility optimization.\n- Precision agriculture for sustainable farming.\n- Predictive healthcare solutions for preventive care.\n- Renewable energy management to support sustainability goals.\n\nThis session will provide a platform to share insights, discuss challenges, and shape a shared vision for harnessing AI to create a smarter, more sustainable future for Andhra Pradesh."
+      "title": "Discussion Themes",
+      "body": "- Strategies to attract investments and establish Andhra Pradesh as a leader in the global AI ecosystem.\n- Frameworks for building an inclusive and scalable AI innovation hub.\n- Opportunities for skill development and workforce readiness through industry-academia partnerships.\n- Use cases demonstrating AI's transformative potential in agriculture, healthcare, education, and governance.\n\nThis session will set the stage for Andhra Pradesh to become a global epicenter for AI, shaping a sustainable and innovative future."
     }
   ],
   "speaker_section_title": "Speakers @ Davos 2019",
@@ -38,39 +38,39 @@
       "extra_info": "Led by"
     },
     {
-      "name": "Vishnu Som",
-      "role": "Group Executive Editor and Senior Anchor",
-      "organisation": "NDTV",
+      "name": "Vishal Dhupar",
+      "role": "Managing Director, Asia South",
+      "organisation": "NVIDIA",
       "description": "",
       "href": "#",
-      "imageUrl": "https://pbs.twimg.com/profile_images/1787471109174231040/WzkFl-vb_400x400.jpg",
+      "imageUrl": "https://blogs.nvidia.com/wp-content/uploads/2024/10/cropped-Vishal_Dhupar.jpg"
+    },
+    {
+      "name": "Ricardo Hausmann",
+      "role": "Founder & Director, Growth Lab",
+      "organisation": "Harvard University USA",
+      "description": "",
+      "href": "#",
+      "imageUrl": "https://growthlab.hks.harvard.edu/sites/projects.iq.harvard.edu/files/growthlab/files/faculty_hausmann_ricardo_ms022_square.jpg?m=1716229766"
+    },
+    {
+      "name": "Jay Lee",
+      "role": "Clark Distinguished Professor and Director, Industrial Artificial Intelligence Center",
+      "organisation": "University of Maryland",
+      "imageUrl": "https://faculty.eng.umd.edu/sites/faculty.eng.umd.edu/files/profile_images/Jay%20Lee%20UMD%20Photo%202024%202%20MB.jpg"
+    },
+    {
+      "name": "Sadie Creese",
+      "role": "Professor of Cybersecurity",
+      "organisation": "University of Oxford",
+      "imageUrl": "https://cdn.jwplayer.com/thumbs/2QOqkHCt-1280.jpg"
+    },
+    {
+      "name": "Niraj Shah",
+      "role": "Executive Editor",
+      "organisation": "NDTV Profit",
+      "imageUrl": "https://images.assettype.com/bloombergquint/2022-12/c55322a2-2c60-471f-bbd8-f7023548629a/thumbnail_niraj.png",
       "extra_info": "Moderator"
-    },
-    {
-      "name": "Matt Renner",
-      "role": "President - Global Revenue",
-      "organisation": "Google Cloud",
-      "description": "",
-      "href": "#",
-      "imageUrl": "https://media.licdn.com/dms/image/v2/D4E03AQHAWreVAWcw3A/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1712639109721?e=2147483647&v=beta&t=11q5x8j9O5XztHQ0EjmNzf_1k3auczRmxRBZ1t0dNlk"
-    },
-    {
-      "name": "Rodger Voorhies",
-      "role": "President, Global Growth & Opportunity",
-      "organisation": "Bill & Melinda Gates Foundation",
-      "imageUrl": "https://www.gatesfoundation.org/-/media/gfo/3about/3people/ga11257112_rodger_voorhies_20181115_0002_3000x2400.jpg?rev=2e6d20946dd546858b41896c2231dd78"
-    },
-    {
-      "name": "Doreen Bogdan-Martin",
-      "role": "Secretary-General",
-      "organisation": "International Telecommunication Union (ITU)",
-      "imageUrl": "https://www.state.gov/wp-content/uploads/2021/08/Doreen-Bogdan-Martin-Campaign-Photo-scaled.jpg"
-    },
-    {
-      "name": "Daniel Susskind",
-      "role": "Associate Member of the Economics Department",
-      "organisation": "University of Oxford, United Kingdom",
-      "imageUrl": "https://georginacapel.com/volumes/authors/_1200x675_crop_center-center_none/15733/Daniel-Susskind-2017.jpg"
     }
   ]
 }

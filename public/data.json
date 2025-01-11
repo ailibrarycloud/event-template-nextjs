@@ -1,75 +1,63 @@
 {
-  "title": "Shaping the Future for Next-Gen AI: Innovation Hub, Data Factory, and AI University",
-  "image": "https://ailib-public.s3-us-west-2.amazonaws.com/corbett/arani@ailibrary.ai/shutterstock_2018729366.jpg",
-  "date": "Wed, 22 Jan 2025",
-  "time": "12:45 – 13:30 Hrs",
-  "namespace": "ai-for-good-roundtable-20250106093418",
+  "title": "Round Table: The Next Wave – Pioneering the Blue Economy of Tomorrow",
+  "image": "https://ailib-public.s3-us-west-2.amazonaws.com/corbett/arani@ailibrary.ai/ports.jpg",
+  "date": "Tue, 21 Jan 2025",
+  "time": "18:45 - 19:30 Hrs",
+  "description": "This roundtable will examine Andhra Pradesh’s vast potential to lead the next-generation blue economy by leveraging its 1,053.7 km coastline and abundant maritime resources. Discussions will focus on how the state can boost exports, foster sustainable growth, and attract investments in seafood, ports, renewable energy, and marine innovation.",
   "location": "Andhra Pradesh Lounge at Atlantis (Ground Floor), Grandhotel Belvedere, 89 Promenade",
   "primary_logo": {
     "href": "/AP-logo.png"
   },
   "secondary_logo": {
-    "href": "/NVIDIA.svg",
+    "href": "https://ailib-public.s3-us-west-2.amazonaws.com/corbett/arani@ailibrary.ai/1632725060447.jpeg",
     "title": "In association with"
   },
   "sections": [
     {
-      "body": "This roundtable will explore how Andhra Pradesh can establish itself as a global hub for next-generation AI by fostering innovation, implementing cutting-edge solutions, and strengthening its integration into the global technology ecosystem."
+      "body": "This roundtable will examine Andhra Pradesh’s vast potential to lead the next-generation blue economy by leveraging its 1,053.7 km coastline and abundant maritime resources. Discussions will focus on how the state can boost exports, foster sustainable growth, and attract investments in seafood, ports, renewable energy, and marine innovation."
     },
     {
       "title": "Objectives",
-      "body": "Andhra Pradesh recognizes the transformative potential of AI in revolutionizing industries, enhancing public services, and driving sustained economic growth. By collaborating with NVIDIA and other global leaders, the state aims to realize this vision across key focus areas:\n- **Positioning as a Global AI Hub:** With the global AI market expected to reach $826 billion by 2030, Andhra Pradesh is strategically aiming to attract investments, foster job creation, and accelerate economic development by becoming a next-generation AI innovation hub.\n- **Workforce Development for an AI-Driven Future:** Partnerships with leading organizations can enable the development of specialized training programs, equipping the state's youth with essential AI and industry-relevant skills to prepare for future opportunities.\n- **Establishing a Transformative AI University:** The proposed AI university in Andhra Pradesh is poised to be a game-changer. It will require the creation of a conducive AI ecosystem, including advanced resources, skill development initiatives, and robust collaborations with academia, civil societies, private institutions, and global industry leaders.\n- **AI Applications Across Key Sectors:** Andhra Pradesh aims to leverage global expertise to implement AI-driven solutions in agriculture, healthcare, education, and governance, boosting productivity and addressing critical citizen needs.\n* **Building Robust Infrastructure for Innovation:**\nBy creating an AI hub with state-of-the-art infrastructure, Andhra Pradesh can foster sustained innovation and position itself as a global leader in AI technology."
+      "body": "Andhra Pradesh is on a path to achieving a $2 trillion economy by 2047, with port-led development playing a pivotal role in its journey to becoming a key maritime state. By building world-class infrastructure and embracing sustainable practices, the state is positioned to lead the blue economy while fostering industrial growth and job creation.\nKey highlights include:\n- **Export Leadership in Seafood:** In 2023-24, Visakhapatnam Port processed 3.14 lakh tonnes of seafood valued at over $2 billion, contributing 30% of India's seafood exports. Andhra Pradesh has emerged as the top exporter of frozen shrimp from India, underscoring its prominence in global seafood markets.\n- **Strategic Ports and Cargo Handling:** With six operational ports, including Visakhapatnam---India's largest cargo-handling port in FY23 at 74.3 million tonnes---and four additional ports under development, Andhra Pradesh handles 198 million tonnes of cargo annually. Its strategic location on the Bay of Bengal enables reduced export costs and competitive excellence in seafood, minerals, and marine products.\n- **Renewable Energy Opportunities:** Andhra Pradesh's 17 GW offshore wind energy potential aligns with its clean energy goals. Innovations like solar-powered cold chains and fuel-efficient fishing vessels offer pathways to transform the fisheries supply chain while reducing carbon emissions. \n* **Sustainable Growth through Coastal Development:**\nThe state's focus on sustainable fishing, renewable energy, and industrial corridors strengthens its position as a blue economy leader. Andhra Pradesh is uniquely advantaged, being the only state with three industrial corridors and several coastal corridors for accelerated development."
     },
     {
       "title": "Discussion Themes",
-      "body": "- Strategies to attract investments and establish Andhra Pradesh as a leader in the global AI ecosystem.\n- Frameworks for building an inclusive and scalable AI innovation hub.\n- Opportunities for skill development and workforce readiness through industry-academia partnerships.\n- Use cases demonstrating AI's transformative potential in agriculture, healthcare, education, and governance.\n\nThis session will set the stage for Andhra Pradesh to become a global epicenter for AI, shaping a sustainable and innovative future."
+      "body": "- Strategies to attract global investments in seafood, ports, and marine innovation.\n- Opportunities in offshore wind energy and clean energy transitions for the maritime sector.\n- Advancing sustainable fishing practices and reducing the carbon footprint of marine industries.\n- Building world-class infrastructure to position Andhra Pradesh as a premier hub for the blue economy.\n\n This session will pave the way for Andhra Pradesh to harness its coastal and maritime strengths, pioneering a sustainable and prosperous future for the blue economy."
     }
   ],
-  "speaker_section_title": "Speakers @ Davos 2019",
+  "speaker_section_title": "Speakers",
   "people": [
     {
-      "name": "Nara Lokesh",
-      "role": "Hon’ble Minister for Human Resource Development, IT, Electronics & Communications, and Real Time Governance",
+      "name": "N. Chandrababu Naidu",
+      "role": "Hon’ble Chief Minister of Andhra Pradesh",
       "organisation": "Government of Andhra Pradesh",
-      "imageUrl": "https://theleaderspage.com/wp-content/uploads/2020/07/nara-lokesh.jpg",
+      "imageUrl": "https://assets.weforum.org/sf_account/image/hcYSD6hIE5ps-20Aagn4hwbA_zFMHouPHepwjcXoZss.jpeg",
       "twitter": "",
       "linkedin": "",
       "description": "",
       "extra_info": "Led by"
     },
     {
-      "name": "Vishal Dhupar",
-      "role": "Managing Director, Asia South",
-      "organisation": "NVIDIA",
+      "name": "Jacques Vandermeiren",
+      "role": "Chief Executive Officer",
+      "organisation": "Port of Antwerp-Bruges, Belgium",
       "description": "",
       "href": "#",
-      "imageUrl": "https://blogs.nvidia.com/wp-content/uploads/2024/10/cropped-Vishal_Dhupar.jpg"
+      "imageUrl": "https://zapdrupalfilesprod.s3.eu-central-1.amazonaws.com/bia/styles/large_free/s3/2023-08/jaak%20van%20der%20meiren%20%20DSC_8598%20Marco%20Mertens.JPG?VersionId=WTxZJEsewhfz9Sj1z5ZV218.9.BL3v.g&itok=ORpfB8TZ"
     },
     {
-      "name": "Ricardo Hausmann",
-      "role": "Founder & Director, Growth Lab",
-      "organisation": "Harvard University USA",
+      "name": "Boudewjin Siemons",
+      "role": "Chief Executive Officer",
+      "organisation": "Port of Rotterdam, Netherlands",
       "description": "",
       "href": "#",
-      "imageUrl": "https://growthlab.hks.harvard.edu/sites/projects.iq.harvard.edu/files/growthlab/files/faculty_hausmann_ricardo_ms022_square.jpg?m=1716229766"
+      "imageUrl": "https://shippingtelegraph.com/wp-content/uploads/2023/05/ROTTERDAM.jpg"
     },
     {
-      "name": "Jay Lee",
-      "role": "Clark Distinguished Professor and Director, Industrial Artificial Intelligence Center",
-      "organisation": "University of Maryland",
-      "imageUrl": "https://faculty.eng.umd.edu/sites/faculty.eng.umd.edu/files/profile_images/Jay%20Lee%20UMD%20Photo%202024%202%20MB.jpg"
-    },
-    {
-      "name": "Sadie Creese",
-      "role": "Professor of Cybersecurity",
-      "organisation": "University of Oxford",
-      "imageUrl": "https://cdn.jwplayer.com/thumbs/2QOqkHCt-1280.jpg"
-    },
-    {
-      "name": "Niraj Shah",
-      "role": "Executive Editor",
-      "organisation": "NDTV Profit",
-      "imageUrl": "https://images.assettype.com/bloombergquint/2022-12/c55322a2-2c60-471f-bbd8-f7023548629a/thumbnail_niraj.png",
+      "name": "Shereen Bhan",
+      "role": "Managing Editor",
+      "organisation": "CNBC-TV18",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4B6S7OMAAyLnK9MbR9I-yBiEbOhB0rA1zJw&s",
       "extra_info": "Moderator"
     }
   ]

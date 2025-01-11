@@ -1,0 +1,53 @@
+{
+  "title": "Round Table: Building the next Petrochemical Hub",
+  "image": "",
+  "objectives": "This roundtable will explore the strategic potential of Andhra Pradesh as a key petrochemical hub and further aim to identify collaborative investment opportunities that will enhance the state’s sectoral manufacturing capabilities and innovations in technology, with over INR 36 lakh worth investments in Chemicals & Petrochemicals already in place.",
+  "date": "Tue, 21 Jan 2025",
+  "time": "15:00 – 15:45 Hrs",
+  "namespace": "ai-for-good-roundtable-20250106093418",
+  "location": "Andhra Pradesh Lounge at Atlantis (Ground Floor), Grandhotel Belvedere, 89 Promenade",
+  "description": "Andhra Pradesh is leveraging AI to address its growing needs and drive sectoral transformation: \n- Partnering with Google, the state aims to harness AI to boost economic prosperity, creating market-ready solutions and new revenue streams. \n- With a 67% literacy rate, AI can enhance learning outcomes, improving youth employability and skill development. \n- AI-driven diagnostics and solutions can improve maternal and child nutrition, risk assessments, and affordable healthcare delivery, particularly in rural areas.\n- AI can optimize crop yield predictions, enhance food security, and strengthen market linkages for the state’s farmers, contributing over 29% to GSDP. \n- Data-driven AI can improve public services, decision-making, and transparency, positioning Andhra Pradesh as a leader in AI innovation.\n- It will be key to explore how AI can transform key sectors in Andhra Pradesh, by highlighting specific use cases such as urban mobility, precision agriculture, predictive healthcare, and renewable energy management.",
+  "people": [
+    {
+      "name": "N. Chandrababu Naidu",
+      "role": "Hon’ble Chief Minister of Andhra Pradesh",
+      "organisation": "Government of Andhra Pradesh",
+      "imageUrl": "https://assets.weforum.org/sf_account/image/hcYSD6hIE5ps-20Aagn4hwbA_zFMHouPHepwjcXoZss.jpeg",
+      "twitter": "",
+      "linkedin": "",
+      "description": "",
+      "extra_info": "Led by"
+    },
+    {
+      "name": "Jai Shroff",
+      "role": "Chairman and Group Chief Executive Officer",
+      "organisation": "UPL Ltd, India",
+      "description": "",
+      "href": "#",
+      "imageUrl": "https://www.upl-ltd.com/images/team-board/jay_shroff.jpg"
+    },
+    {
+      "name": "Nabil Al Nuaim",
+      "role": "Senior Vice-President",
+      "organisation": "Aramco, Saudi Arabia",
+      "description": "",
+      "href": "#",
+      "imageUrl": "https://www.aramco.com/-/jssmedia/magazine/2021/welcome-to-the-future-of-industry/nabil-al-nuaim.jpg?cx=0.47&cy=0.13"
+    },
+    {
+        "name": "Muhammad Taufik",
+        "role": "President and Group Chief Executive Officer",
+        "organisation": "PETRONAS (Petroliam Nasional), Malaysia",
+        "description": "",
+        "href": "#",
+        "imageUrl": "https://www.adipec.com/media/poiaqcs3/tengu.jpg"
+      },
+    {
+      "name": "Shereen Bhan",
+      "role": "Managing Editor",
+      "organisation": "CNBC-TV18",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4B6S7OMAAyLnK9MbR9I-yBiEbOhB0rA1zJw&s",
+      "extra_info": "Moderator"
+    }
+  ]
+}

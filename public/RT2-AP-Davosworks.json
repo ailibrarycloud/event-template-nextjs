@@ -1,0 +1,57 @@
+{
+  "title": "Round Table: Shaping the Future for Next-Gen AI: Innovation Hub, Data Factory, and AI University",
+  "image": "",
+  "objectives": "This roundtable will discuss how Andhra Pradesh can become a global hub for next-gen AI by fostering innovation, implementing advanced solutions, and strengthening its role in global tech ecosystem.",
+  "date": "Wed, 22 Jan 2025",
+  "time": "12:45 – 13:30 Hrs",
+  "namespace": "ai-for-good-roundtable-20250106093418",
+  "location": "Andhra Pradesh Lounge at Atlantis (Ground Floor), Grandhotel Belvedere, 89 Promenade",
+  "description": "Andhra Pradesh is leveraging AI to address its growing needs and drive sectoral transformation: \n- Partnering with Google, the state aims to harness AI to boost economic prosperity, creating market-ready solutions and new revenue streams. \n- With a 67% literacy rate, AI can enhance learning outcomes, improving youth employability and skill development. \n- AI-driven diagnostics and solutions can improve maternal and child nutrition, risk assessments, and affordable healthcare delivery, particularly in rural areas.\n- AI can optimize crop yield predictions, enhance food security, and strengthen market linkages for the state’s farmers, contributing over 29% to GSDP. \n- Data-driven AI can improve public services, decision-making, and transparency, positioning Andhra Pradesh as a leader in AI innovation.\n- It will be key to explore how AI can transform key sectors in Andhra Pradesh, by highlighting specific use cases such as urban mobility, precision agriculture, predictive healthcare, and renewable energy management.",
+  "people": [
+    {
+      "name": "Nara Lokesh",
+      "role": "Hon’ble Minister for Human Resource Development, IT, Electronics & Communications, and Real Time Governance",
+      "organisation": "Government of Andhra Pradesh",
+      "imageUrl": "https://theleaderspage.com/wp-content/uploads/2020/07/nara-lokesh.jpg",
+      "twitter": "",
+      "linkedin": "",
+      "description": "",
+      "extra_info": "Led by"
+    },
+    {
+      "name": "Vishal Dhupar",
+      "role": "Managing Director, Asia South",
+      "organisation": "NVIDIA",
+      "description": "",
+      "href": "#",
+      "imageUrl": "https://blogs.nvidia.com/wp-content/uploads/2024/10/cropped-Vishal_Dhupar.jpg"
+    },
+    {
+      "name": "Ricardo Hausmann",
+      "role": "Founder & Director, Growth Lab",
+      "organisation": "Harvard University USA",
+      "description": "",
+      "href": "#",
+      "imageUrl": "https://growthlab.hks.harvard.edu/sites/projects.iq.harvard.edu/files/growthlab/files/faculty_hausmann_ricardo_ms022_square.jpg?m=1716229766"
+    },
+    {
+      "name": "Jay Lee",
+      "role": "Clark Distinguished Professor and Director, Industrial Artificial Intelligence Center",
+      "organisation": "University of Maryland",
+      "imageUrl": "https://faculty.eng.umd.edu/sites/faculty.eng.umd.edu/files/profile_images/Jay%20Lee%20UMD%20Photo%202024%202%20MB.jpg"
+    },
+    {
+      "name": "Sadie Creese",
+      "role": "Professor of Cybersecurity",
+      "organisation": "University of Oxford",
+      "imageUrl": "https://cdn.jwplayer.com/thumbs/2QOqkHCt-1280.jpg"
+    },
+    {
+      "name": "Niraj Shah",
+      "role": "Executive Editor",
+      "organisation": "NDTV Profit",
+      "imageUrl": "https://images.assettype.com/bloombergquint/2022-12/c55322a2-2c60-471f-bbd8-f7023548629a/thumbnail_niraj.png",
+      "extra_info": "Moderator"
+    }
+  ]
+}

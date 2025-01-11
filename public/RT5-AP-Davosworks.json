@@ -1,0 +1,53 @@
+{
+  "title": "Round Table: Powering the Future with Green Hydrogen & Renewable Energy",
+  "image": "",
+  "objectives": "Focusing on the Integrated Clean Energy Policy (ICEP) 2024, this roundtable will focus on Andhra Pradesh’s vision to become a global leader in clean energy by leveraging its abundant resources to attract investments and forge partnerships with global energy leaders.",
+  "date": "Wed, 22 Jan 2025",
+  "time": "18:45 - 19:30 Hrs",
+  "namespace": "ai-for-good-roundtable-20250106093418",
+  "location": "Andhra Pradesh Lounge at Atlantis (Ground Floor), Grandhotel Belvedere, 89 Promenade",
+  "description": "Andhra Pradesh is leveraging AI to address its growing needs and drive sectoral transformation: \n- Partnering with Google, the state aims to harness AI to boost economic prosperity, creating market-ready solutions and new revenue streams. \n- With a 67% literacy rate, AI can enhance learning outcomes, improving youth employability and skill development. \n- AI-driven diagnostics and solutions can improve maternal and child nutrition, risk assessments, and affordable healthcare delivery, particularly in rural areas.\n- AI can optimize crop yield predictions, enhance food security, and strengthen market linkages for the state’s farmers, contributing over 29% to GSDP. \n- Data-driven AI can improve public services, decision-making, and transparency, positioning Andhra Pradesh as a leader in AI innovation.\n- It will be key to explore how AI can transform key sectors in Andhra Pradesh, by highlighting specific use cases such as urban mobility, precision agriculture, predictive healthcare, and renewable energy management.",
+  "people": [
+    {
+      "name": "N. Chandrababu Naidu",
+      "role": "Hon’ble Chief Minister of Andhra Pradesh",
+      "organisation": "Government of Andhra Pradesh",
+      "imageUrl": "https://assets.weforum.org/sf_account/image/hcYSD6hIE5ps-20Aagn4hwbA_zFMHouPHepwjcXoZss.jpeg",
+      "twitter": "",
+      "linkedin": "",
+      "description": "",
+      "extra_info": "Led by"
+    },
+    {
+      "name": "Anil Chalamalasetty",
+      "role": "Founder, and Group CEO",
+      "organisation": "Greenko Group",
+      "description": "",
+      "href": "#",
+      "imageUrl": "https://hitex.co.in/storage/posts/2023/green-mobility-on-rise_5.jpg"
+    },
+    {
+      "name": "Kim Hedegaard",
+      "role": "Chief Executive Officer, Power-to-Business,",
+      "organisation": "Topsoe, Denmark",
+      "description": "",
+      "href": "#",
+      "imageUrl": "https://www.adipec.com/media/ku2ixino/kim.jpg"
+    },
+    {
+        "name": "Marco Alverà",
+        "role": "Chief Executive Officer and Co-Founder",
+        "organisation": "Tree Energy Solutions (TES), USA",
+        "description": "",
+        "href": "#",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/af/MarcoAlver%C3%A0.jpg"
+      },
+    {
+      "name": "Siddharth Zarabi",
+      "role": "Editor",
+      "organisation": "Business Today",
+      "imageUrl": "https://img-cdn.thepublive.com/fit-in/1200x675/bmi/media/post_banners/fa6952435b8855242fe411a067d0dfa65887c0b7c5541a3829df12dc40727631.jpg",
+      "extra_info": "Moderator"
+    }
+  ]
+}

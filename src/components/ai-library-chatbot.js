@@ -6,6 +6,7 @@ export default function AIChatbot({ boxOpen, setBoxOpen }) {
   const [open, setOpen] = useState(false);
   const [loading, setLoading] = useState(true);
   const dialogRef = useRef(null);
+  const namespace = process.env["NEXT_PUBLIC_NAMESPACE"];
 
   const handleIframeLoad = () => {
     setLoading(false);
@@ -66,9 +67,9 @@ export default function AIChatbot({ boxOpen, setBoxOpen }) {
             >
               CLOSE
             </button>
-            {loading && <div className="loader text-gray-200">Loading...</div>}
+            {loading && <div className="loader text-gray-400 p-4">Loading...</div>}
             <iframe
-              src="https://www.ailibrary.ai/agent/ai-for-good-roundtable-20250106093418/chat"
+              src={`https://www.ailibrary.ai/agent/${namespace}/chat`}
               title="My First AI Agent"
               height="600px"
               width="100%"

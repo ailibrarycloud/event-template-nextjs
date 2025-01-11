@@ -1,0 +1,107 @@
+{
+  "title": "Round Table: AI for Good – Shaping a Smarter, Sustainable Tomorrow",
+  "image": "shutterstock_2370039435.jpg",
+  "objectives": "This roundtable aims to bring together leaders and experts to explore AI-driven solutions for the public good. Focused on healthcare, education, agriculture, and governance, its further objective is to craft a collaborative roadmap for impactful, scalable initiatives.",
+  "date": "Tue, 21 Jan 2025",
+  "time": "12:45 – 13:30 Hrs",
+  "namespace": "ai-for-good-roundtable-20250106093418",
+  "location": "Andhra Pradesh Lounge at Atlantis (Ground Floor), Grandhotel Belvedere, 89 Promenade",
+  "description": "Andhra Pradesh is leveraging AI to address its growing needs and drive sectoral transformation: \n- Partnering with Google, the state aims to harness AI to boost economic prosperity, creating market-ready solutions and new revenue streams. \n- With a 67% literacy rate, AI can enhance learning outcomes, improving youth employability and skill development. \n- AI-driven diagnostics and solutions can improve maternal and child nutrition, risk assessments, and affordable healthcare delivery, particularly in rural areas.\n- AI can optimize crop yield predictions, enhance food security, and strengthen market linkages for the state’s farmers, contributing over 29% to GSDP. \n- Data-driven AI can improve public services, decision-making, and transparency, positioning Andhra Pradesh as a leader in AI innovation.\n- It will be key to explore how AI can transform key sectors in Andhra Pradesh, by highlighting specific use cases such as urban mobility, precision agriculture, predictive healthcare, and renewable energy management.",
+  "people": [
+    {
+      "name": "Nara Lokesh",
+      "role": "Hon’ble Minister for Human Resource Development, IT, Electronics & Communications, and Real Time Governance",
+      "organisation": "Government of Andhra Pradesh",
+      "imageUrl": "/nara-lokesh.jpg",
+      "twitter": "",
+      "linkedin": "",
+      "description": "",
+      "extra_info": "Led by"
+    },
+    {
+      "name": "Vishnu",
+      "role": "Group Executive Editor and Senior Anchor",
+      "organisation": "NDTV",
+      "description": "",
+      "href": "#",
+      "imageUrl": "/vishnu.jpg",
+      "extra_info": "Moderator"
+    },
+    {
+      "name": "Matt Renner",
+      "role": "President - Global Revenue",
+      "organisation": "Google Cloud",
+      "description": "",
+      "href": "#",
+      "imageUrl": "/matt-renner.jpeg"
+    },
+    {
+      "name": "Farnam Jahanian",
+      "role": "President",
+      "organisation": "Carnegie Mellon University, USA",
+      "imageUrl": "/farnam-jahanian.jpg"
+    },
+    {
+      "name": "Stéphane Bancel",
+      "role": "Chief Executive Officer",
+      "organisation": "Moderna, USA",
+      "imageUrl": "/stephane-bancel.jpg"
+    },
+    {
+      "name": "Albert Bourla",
+      "role": "Chief Executive Officer",
+      "organisation": "Pfizer, USA",
+      "imageUrl": "/albert-bourla.jpg"
+    },
+    {
+      "name": "Rajiv Shah",
+      "role": "President",
+      "organisation": "Rockefeller Foundation",
+      "imageUrl": "/rajiv-shah.webp"
+    },
+    {
+      "name": "Chuck Robbins",
+      "role": "Chair and Chief Executive Officer",
+      "organisation": "Cisco, USA",
+      "imageUrl": "/chuck-robbins.jpeg"
+    },
+    {
+      "name": "Matthias Berninger",
+      "role": "Executive Vice-President; Head,Public Affairs, Science and Sustainability",
+      "organisation": "Bayer, Germany",
+      "imageUrl": "/matthias-berninger.png"
+    }
+  ],
+  "jsons": [
+    {
+        "url": "https://ailib-public.s3-us-west-2.amazonaws.com/corbett/arani@ailibrary.ai/RT5-AP-Davosworks.json",
+        "id": 3035,
+        "bytes": 3189,
+        "name": "RT5-AP-Davosworks.json"
+    },
+    {
+        "url": "https://ailib-public.s3-us-west-2.amazonaws.com/corbett/arani@ailibrary.ai/RT4-AP-Davosworks.json",
+        "id": 3036,
+        "bytes": 3250,
+        "name": "RT4-AP-Davosworks.json"
+    },
+    {
+        "url": "https://ailib-public.s3-us-west-2.amazonaws.com/corbett/arani@ailibrary.ai/RT3-AP-Davosworks.json",
+        "id": 3037,
+        "bytes": 3029,
+        "name": "RT3-AP-Davosworks.json"
+    },
+    {
+        "url": "https://ailib-public.s3-us-west-2.amazonaws.com/corbett/arani@ailibrary.ai/RT2-AP-Davosworks.json",
+        "id": 3038,
+        "bytes": 3471,
+        "name": "RT2-AP-Davosworks.json"
+    },
+    {
+        "url": "https://ailib-public.s3-us-west-2.amazonaws.com/corbett/arani@ailibrary.ai/RT1-AP-Davosworks.json",
+        "id": 3039,
+        "bytes": 3723,
+        "name": "RT1-AP-Davosworks.json"
+    }
+]
+}
